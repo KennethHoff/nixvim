@@ -16,5 +16,6 @@ lib.nixvim.plugins.mkNeovimPlugin {
     '';
   };
 
+  # TODO: Figure out how to add this package.
   # home.packages = [ pkgs.roslyn-ls ];
 }
